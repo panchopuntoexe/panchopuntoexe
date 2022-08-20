@@ -11,8 +11,8 @@
 
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ecuador.
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
+- 🔭 I’m working as a Software Engineer and contributing to backend for building web applications.
+- 🌱 Start-up founder at Hexagonal.
 - ⚡ In my free time I read tech articles and make music.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-francisco-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-garcia-mosquera)
 
