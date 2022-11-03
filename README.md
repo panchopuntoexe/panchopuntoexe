@@ -11,7 +11,7 @@
 
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ecuador.
 
-- 🔭 I’m working as a Software Engineer and contributing to backend for building web applications.
+- 🔭 I’m working as a Software Engineer and contributing to backend for building web and mobile applications.
 - 🌱 Start-up founder at Hexagonal.
 - ⚡ Creator of  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-YourAnatomy-blue?style=flat)](https://youranatomy.software/)
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Francisco-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-garcia-mosquera)
@@ -22,6 +22,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
